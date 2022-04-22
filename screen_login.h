@@ -15,6 +15,9 @@ public:
     Screen_Login(QWidget *parent = nullptr);
     ~Screen_Login();
 
+private slots:
+    void on_btn_login_clicked();
+
 private:
     Ui::Screen_Login *ui;
 };

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo-terminalroot.png</file>
+    </qresource>
+</RCC>

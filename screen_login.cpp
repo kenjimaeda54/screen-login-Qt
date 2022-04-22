@@ -13,3 +13,18 @@ Screen_Login::~Screen_Login()
     delete ui;
 }
 
+
+void Screen_Login::on_btn_login_clicked()
+{
+    if(ui->field_password->text() == "1234" && ui->field_email->text() == "kenji@gmail"  ){
+         ui->statusbar->showMessage("Login with sucess");
+    }else {
+
+        ui->statusbar->showMessage("Password and Email incorrects");
+        ui->field_email->clear();
+        ui->field_password->clear();
+
+    }
+
+}
+
