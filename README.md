@@ -33,7 +33,7 @@ void Screen_Login::on_btn_login_clicked()
 ##
 
 
-## Screen Shoot
+## ScreenShoot
 
 
 
