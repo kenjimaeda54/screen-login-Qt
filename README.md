@@ -36,6 +36,6 @@ void Screen_Login::on_btn_login_clicked()
 ## ScreenShoot
 
 ![loginWrong.jpeg](https://github.com/kenjimaeda54/screen-login-Qt/blob/develop/loginWrong.jpeg)
-
+![loginSucess.jpeg](https://github.com/kenjimaeda54/screen-login-Qt/blob/develop/loginSucess.jpeg)
 
 
