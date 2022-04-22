@@ -1,8 +1,9 @@
 # Login Simples
-Aplicacao simples conceito de login 
+Aplicação simples, conceito de login 
 
-## Motivacao
-Aplicar recursos de logica logado e deslogado e resource de imagens locais
+## Motivação
+Aplicar recursos de logica logado,deslogado e resource de imagens.
+
 
 
 ## Feature
